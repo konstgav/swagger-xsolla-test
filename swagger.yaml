@@ -1,6 +1,6 @@
 openapi: 3.0.1
 info:
-  title: Test for Xsolla School 2021. Backend.
+  title: Swagger doc fot test REST API. Backend Xsolla Summer School 2021.
   description: 'RESTful API for e-commerce game developers system which allows to create, read, update and delete products.'
   termsOfService: http://swagger.io/terms/
   contact:
